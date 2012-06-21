@@ -24,8 +24,10 @@
 
  SS 1
 
- SS 2
+ Riga 5
 
+ for(ever)
+ malloc (allmemory)
 
 
 
