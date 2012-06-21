@@ -4,11 +4,10 @@
 
  Riga 1
 
- Riga 2
-
 
  Fine
 
+ Ho aggiunto questa e tolto la 2 !
 
 // END RIccardo
 
