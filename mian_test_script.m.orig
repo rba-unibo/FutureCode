@@ -1,0 +1,19 @@
+
+
+
+% Create test vector
+N = 400 			% Vector Length
+tVec = rand(N,1)-100;
+
+
+sVec = sort(tvec);
+
+<<<<<<< HEAD
+%wVec = swap(tvec);
+
+wVec = sVec./2;
+=======
+wVec = swap(tvec);
+
+cavolissmo---------------------------------
+>>>>>>> b5ae970efefb89c8adae8e274410b4ce2bc1fd4f
