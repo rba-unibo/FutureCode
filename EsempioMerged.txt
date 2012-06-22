@@ -1,0 +1,37 @@
+
+//------------------------ Riccardo ------------------------------
+
+
+ Riga 1
+
+
+ Fine
+
+ Ho aggiunto questa e tolto la 2 !
+
+// END RIccardo
+
+
+
+
+
+
+// -----------------------Stefano ------------------------------------
+
+
+
+
+ SS 1
+
+ Riga 5
+
+ for(ever)
+ malloc (allmemory)
+
+
+
+ EE 
+
+
+
+// END Stefano
