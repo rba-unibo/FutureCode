@@ -10,4 +10,6 @@ sVec = sort(tvec);
 
 %wVec = swap(tvec);
 
+pvec = permuatation(tvec);
+
 plot(tvec);
