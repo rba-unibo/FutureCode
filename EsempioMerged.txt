@@ -9,6 +9,10 @@
 
  Ho aggiunto questa e tolto la 2 !
 
+ 
+ RINOMINO LA VARIABILE SHARED
+
+
 // END RIccardo
 
 
@@ -28,9 +32,9 @@
  for(ever)
  malloc (allmemory)
 
+CAMBIO TUTTI I NOMI SHARED
 
-
- EE 
+ EE_NUOVO 
 
 
 
