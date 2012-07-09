@@ -2,7 +2,7 @@
 //------------------------ Riccardo ------------------------------
 
 
- Riga 1
+ distruggo il codice di Rick per vedere se mi scopre
 
 
  Fine
@@ -28,7 +28,9 @@
  for(ever)
  malloc (allmemory)
 
-
+ load
+ return
+ "press play on tape"
 
  EE 
 
