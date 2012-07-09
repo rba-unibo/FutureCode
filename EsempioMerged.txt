@@ -2,7 +2,7 @@
 //------------------------ Riccardo ------------------------------
 
 
- Riga 1
+ distruggo il codice di Rick per vedere se mi scopre
 
 
  Fine
@@ -24,7 +24,6 @@
 
 
 
-
  SS 1
 
  Riga 5
@@ -32,9 +31,18 @@
  for(ever)
  malloc (allmemory)
 
+
+ return
+
+
+ 
 CAMBIO TUTTI I NOMI SHARED
+ load
+ return
+ "press play on tape"
 
  EE_NUOVO 
+
 
 
 
